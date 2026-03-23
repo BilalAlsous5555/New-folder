@@ -1,7 +1,8 @@
 hello.html
 *.tarmeez
 new.html
-#// traked file will not ignore so you have to convert it to Untracked file 
+#// traked file will not ignore so you have to convert it to Untracked file By git rm --cached (fileName)
 bb.html 
 #//untraked file just will ignore  
 d.html
+aa.html
